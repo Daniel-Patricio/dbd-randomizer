@@ -1,0 +1,12 @@
+[{
+    "name": "Draft de Perk",
+    "description": "Um jogador escolhe 1 perk, o jogador seguinte terá que escolher 1 perk que ainda não foi escolhido por ninguém. Isso se repete até que todos os jogadores tenham escolhido todos os 4 perks."
+},
+{
+    "name": "Item único",
+    "description": "Cada jogador deverá escolher um item para levar para a partida, ele só poderá usar aquele item na partida e mais nenhum outro caso ache em baú ou no chão."
+},
+{
+    "name": "Proibido exaustão",
+    "description": "Nesta partida nenhum jogador pode usar perk de exaustão."
+}]
