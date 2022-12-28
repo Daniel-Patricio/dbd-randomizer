@@ -1,0 +1,12 @@
+[{
+    "name": "Parado",
+    "description": "Fique parado por 2 segundos imediatamente."
+},
+{
+    "name": "Armário",
+    "description": "Olhe o armário mais próximo imediatamente."
+},
+{
+    "name": "Bater",
+    "description": "Ataque imediatamente mesmo que seja no ar."
+}]
