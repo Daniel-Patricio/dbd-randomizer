@@ -35,6 +35,12 @@
           >
             <option v-for="n in playersCount">{{ n }}</option>
           </select>
+          <i 
+            class="fa fa-question-circle ml-3 rounded-md p-2"
+            title="A dificuldade é relativa à quantidade de jogadores. Por exemplo:
+	            4 jogadores e dificuldade 2 significa que a cada alerta 2 jogadores aleatórios irão receber um comando.
+	            3 jogadores e dificuldade 3 significa que a cada alerta todos os jogadores receberão um comando.">
+        </i>
         </div>
 
         <div class="mb-3">
