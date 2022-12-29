@@ -3,10 +3,82 @@
     "description": "Proibido levar qualquer perk que contenha a palavra 'gerador' para o jogo."
 },
 {
-    "name": "Sem addons",
+    "name": "Sem Addons",
     "description": "Proibido jogar com addons neste jogo."
 },
 {
-    "name": "Addons marrons",
+    "name": "Addons Marrons",
     "description": "Neste jogo você terá que jogar com 2 addons marrons."
+},
+{
+    "name": "Sem Feitiço",
+    "description": "Proibido levar qualquer perk 'feitiço'."
+},
+{
+    "name": "4 Páginas",
+    "description": "É proibido usar 2 perks de uma mesma página do inventário de perks. Caso o jogador não tenha 4 páginas de perks ele deverá ir com espaços de perks vazios."
+},
+{
+    "name": "Addons Amarelos",
+    "description": "Neste jogo você terá que jogar com 2 addons amarelos."
+},
+{
+    "name": "Addons Verdes",
+    "description": "Neste jogo você terá que jogar com 2 addons verdes."
+},
+{
+    "name": "Hora de Farmar",
+    "description": "Use a maior oferenda de bloodpoint que tiver."
+},
+{
+    "name": "Proibido Gerador",
+    "description": "Você só pode levar perks que tenham a palavra 'gerador'."
+},
+{
+    "name": "Eu vejo você",
+    "description": "Você só pode levar perks que permitam leitura de aura de sobreviventes."
+},
+{
+    "name": "Jogando em Casa",
+    "description": "Você deve usar a oferenda do mapa do seu assassino."
+},
+{
+    "name": "Obsecado",
+    "description": "Você precisa usar um perk de obsessão."
+},
+{
+    "name": "Adepto + 1",
+    "description": "Você deve usar os 3 perks do seu assassino e outro qualquer."
+},
+{
+    "name": "Addons Roxos",
+    "description": "Neste jogo você terá que jogar com 2 addons roxos."
+},
+{
+    "name": "Addons Rosas",
+    "description": "Neste jogo você terá que jogar com 2 addons rosas."
+},
+{
+    "name": "Pior Assassino",
+    "description": "Você deve jogar com o seu assassino de nível mais baixo."
+},
+{
+    "name": "Melhor Assassino",
+    "description": "Você deve jogar com o seu assassino de nível mais alto."
+},
+{
+    "name": "Fácil",
+    "description": "Você deverá jogar com um assassino fácil."
+},
+{
+    "name": "Médio",
+    "description": "Você deverá jogar com um assassino médio."
+},
+{
+    "name": "Difícil",
+    "description": "Você deverá jogar com um assassino difícil."
+},
+{
+    "name": "Muito Difícil",
+    "description": "Você deverá jogar com um assassino muito difícil."
 }]
