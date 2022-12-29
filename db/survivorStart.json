@@ -3,10 +3,38 @@
     "description": "Um jogador escolhe 1 perk, o jogador seguinte terá que escolher 1 perk que ainda não foi escolhido por ninguém. Isso se repete até que todos os jogadores tenham escolhido todos os 4 perks."
 },
 {
-    "name": "Item único",
+    "name": "Item Único",
     "description": "Cada jogador deverá escolher um item para levar para a partida, ele só poderá usar aquele item na partida e mais nenhum outro caso ache em baú ou no chão."
 },
 {
-    "name": "Proibido exaustão",
+    "name": "Proibido Exaustão",
     "description": "Nesta partida nenhum jogador pode usar perk de exaustão."
+},
+{
+    "name": "Forçar Mapa",
+    "description": "Cada jogador deve usar uma oferenda de mapa. Pode ser qualquer mapa mas vocês não podem falar qual escolheu."
+},
+{
+    "name": "Hora de Farmar",
+    "description": "Todos os jogadores deverão colocar uma oferenda de bloodpoint coletivo."
+},
+{
+    "name": "Leitura de Aura",
+    "description": "Todos os jogadores deverão usar no mínimo 3 perks de leitura de aura."
+},
+{
+    "name": "4 Páginas",
+    "description": "É proibido usar 2 perks de uma mesma página do inventário de perks. Caso o jogador não tenha 4 páginas de perks ele deverá ir com espaços de perks vazios."
+},
+{
+    "name": "Sem entrega",
+    "description": "Todos os jogadores deverão usar vínculo."
+},
+{
+    "name": "Obsecado",
+    "description": "Todos os jogadores deverão usar um perk de obsessão diferente."
+},
+{
+    "name": "",
+    "description": ""
 }]

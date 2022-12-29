@@ -9,4 +9,88 @@
 {
     "name": "Bater",
     "description": "Ataque imediatamente mesmo que seja no ar."
+},
+{
+    "name": "Chutar Gerador",
+    "description": "Chute um gerador o mais rápido possível."
+},
+{
+    "name": "Erro",
+    "description": "Nos próximos 15 segundos você não pode usar seu poder."
+},
+{
+    "name": "Andando de Costas",
+    "description": "Ande de costas pelos próximos 10 segundos."
+},
+{
+    "name": "360 graus",
+    "description": "Antes do seu próximo ataque você terá que girar a câmera 360 graus."
+},
+{
+    "name": "O Todo Poderoso",
+    "description": "Use seu poder imediatamente."
+},
+{
+    "name": "W",
+    "description": "Você só pode apertar a tecla W pelos próximos 10 segundos."
+},
+{
+    "name": "Proibido W",
+    "description": "Você não pode apertar a tecla W pelos próximos 10 segundo."
+},
+{
+    "name": "Slug",
+    "description": "O próximo sobrevivente que você derrubar você terá que deixar no chão por pelo menos 15 segundos."
+},
+{
+    "name": "Face Camp",
+    "description": "Faça um face camp por pelo menos 10 segundos no próximo sobrevivente que você enganchar."
+},
+{
+    "name": "Tesouros",
+    "description": "Encontre um baú ou entre no porão."
+},
+{
+    "name": "Sim",
+    "description": "Olhe para um sobrevivente e faça sim com a cabeça."
+},
+{
+    "name": "Não",
+    "description": "Olhe para um sobrevivente e faça não com a cabeça."
+},
+{
+    "name": "Achar Gerador",
+    "description": "Vá na direção de um gerador que pode estar com bastante progresso."
+},
+{
+    "name": "Comece a Cantar",
+    "description": "Comece a cantar qualquer música em voz alta para escutar menos o som do jogo."
+},
+{
+    "name": "Pedra",
+    "description": "Beije uma pedra."
+},
+{
+    "name": "Lindeza",
+    "description": "Persiga o sobrevivente mais bonito do lobby."
+},
+{
+    "name": "Feiúra",
+    "description": "Persiga o sobrevivente mais feio do lobby."
+},
+{
+    "name": "Nada",
+    "description": "Dessa vez você ta safe."
+},
+{
+    "name": "Porão",
+    "description": "Entre no porão."
+},
+{
+    "name": "Ache a check",
+    "description": "Você precisa ter contato visual com a check."
+},
+{
+    "name": "Madeira",
+    "description": "Beije uma árvore ou alguma madeira."
 }]

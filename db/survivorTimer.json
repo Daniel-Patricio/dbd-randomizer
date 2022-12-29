@@ -9,4 +9,8 @@
 {
     "name": "Parado",
     "description": "fique parado e não faça nenhuma ação por 2 segundos (mesmo se estiver sendo perseguido)."
+},
+{
+    "name": "Tesouros",
+    "description": "precisa abrir um baú o mais rápido possível."
 }]
