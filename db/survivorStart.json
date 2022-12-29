@@ -35,6 +35,74 @@
     "description": "Todos os jogadores deverão usar um perk de obsessão diferente."
 },
 {
+    "name": "Cada um por si",
+    "description": "Os sobreviventes precisam escapar pela maior quantidade de saídas diferentes possíveis."
+},
+{
+    "name": "Sortudos",
+    "description": "Todos os jogadores precisam colocar oferenda de aumentar a sorte."
+},
+{
+    "name": "Sem Névoa",
+    "description": "Todos os jogadores deverão colocar uma oferenda de espessar a névoa."
+},
+{
+    "name": "Tesouros",
+    "description": "Todos os jogadores deverão colocar uma oferenda de mais baús."
+},
+{
+    "name": "Oferenda Roxa",
+    "description": "Todos os jogadores deverão colocar uma oferenda roxa."
+},
+{
+    "name": "Amigo Secreto",
+    "description": "Todos os jogadores deverão levar um item para dar de presente para outro jogador durante o jogo."
+},
+{
+    "name": "Que Que ta Acontecendo?",
+    "description": "Todos os jogadores deverão usar pelo menos 2 perks que não sabem o que faz."
+},
+{
+    "name": "RPD",
+    "description": "Pelo menos um jogador precisa forçar o mapa RPD, os demais não podem bloquear as outras oferendas."
+},
+{
+    "name": "Hora da Missão",
+    "description": "Todos os jogadores precisam ao máximo tentar concluir a missão atual do arquivo."
+},
+{
+    "name": "1 Página",
+    "description": "Todos os perks de todos os jogadores precisam ser de apenas uma página do inventário de perks."
+},
+{
+    "name": "Adepto + 1",
+    "description": "Todos os jogadores deverão usar os 3 perks do seu sobrevivente e outro qualquer."
+},
+{
+    "name": "Gêmeos",
+    "description": "Todos os jogadores precisam ir com o mesmo personagem e a mesma roupa."
+},
+{
+    "name": "Itens Marrons",
+    "description": "Todos os jogadores deverão ir com algum item e addons marrons."
+},
+{
+    "name": "Itens Amarelos",
+    "description": "Todos os jogadores deverão ir com algum item e addons amarelos."
+},
+{
+    "name": "Itens Verdes",
+    "description": "Todos os jogadores deverão ir com algum item e addons verdes."
+},
+{
+    "name": "Itens Roxos",
+    "description": "Todos os jogadores deverão ir com algum item e addons roxos."
+},
+{
+    "name": "Itens Rosas",
+    "description": "Todos os jogadores deverão ir com algum item rosa."
+},
+{
     "name": "",
     "description": ""
 }]

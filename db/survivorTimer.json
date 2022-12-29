@@ -13,4 +13,76 @@
 {
     "name": "Tesouros",
     "description": "precisa abrir um baú o mais rápido possível."
+},
+{
+    "name": "Andar para Trás",
+    "description": "precisa andar de costas imediatamente."
+},
+{
+    "name": "360 Graus",
+    "description": "precisa pegar chase com o assassino e tentar fazer um 360 nele."
+},
+{
+    "name": "Pular Janela",
+    "description": "precisa pular uma janela o mais rápido possível."
+},
+{
+    "name": "Derrubar Pallet",
+    "description": "precisa derrubar a pallet mais próxima."
+},
+{
+    "name": "Sem Itens",
+    "description": "joga seu item no chão. Não pode pegar de volta."
+},
+{
+    "name": "Gerador",
+    "description": "precisa terminar um gerador o mais rápido possível."
+},
+{
+    "name": "Perseguição",
+    "description": "precisa ser perseguido pelo assassino o mais rápido possível."
+},
+{
+    "name": "Tanque de Guerra",
+    "description": "precisa tomar um ataque do assassino o mais rápido possível."
+},
+{
+    "name": "O Chão é Lava",
+    "description": "precisa ir para o ponto mais alto do mapa que conseguir."
+},
+{
+    "name": "Totem",
+    "description": "precisa purificar um totem o mais rápido possível."
+},
+{
+    "name": "Porão",
+    "description": "precisa entrar no porão."
+},
+{
+    "name": "Proibido Loop",
+    "description": "não pode loopar em um tile na próxima chase, só ir de um tile para outro."
+},
+{
+    "name": "W",
+    "description": "só pode apertar a tecla W pelos próximos 30 segundos."
+},
+{
+    "name": "Proibido W",
+    "description": "não pode apertar W pelos próximos 30 segundos."
+},
+{
+    "name": "Proibido Derrubar Pallet",
+    "description": "não pode derrubar pallet pelos próximos 30 segundos."
+},
+{
+    "name": "Proibido Janela",
+    "description": "não pode pular anela pelos próximos 30 segundos."
+},
+{
+    "name": "Claudette",
+    "description": "só pode andar agaichado pelos próximos 15 segundos."
+},
+{
+    "name": "",
+    "description": ""
 }]

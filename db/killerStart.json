@@ -81,4 +81,16 @@
 {
     "name": "Muito Difícil",
     "description": "Você deverá jogar com um assassino muito difícil."
+},
+{
+    "name": "Gerador Principal",
+    "description": "Tente controlar com todas as suas forças o gerador principal do meio do mapa."
+},
+{
+    "name": "Hora da Missão",
+    "description": "Você deverá tentar ao máximo completar a missão do arquivo durante a partida."
+},
+{
+    "name": "1 Página",
+    "description": "Todos os perks precisam ser da mesma página no inventário de perks."
 }]
